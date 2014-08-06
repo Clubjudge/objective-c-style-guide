@@ -57,7 +57,7 @@ UIApplication.sharedApplication.delegate;
 
 ## Espaçamento
 
-* Idente utilizando 4 espaços, Nunca idente com tabulações. Certifique-se de configurar essa preferência no Xcode.
+* Idente utilizando 2 espaços, Nunca idente com tabulações. Certifique-se de configurar essa preferência no Xcode.
 * Métodos e qualquer bloco de códico que utilize chaves (`if`/`else`/`switch`/`while` etc.) devem sempre ser declarados na mesma linha. Feche o bloco em um nova linha.
 
 **Exemplo correto:**
