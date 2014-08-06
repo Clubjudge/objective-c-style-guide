@@ -52,7 +52,7 @@ UIApplication.sharedApplication.delegate;
 
 ## Abstände
 
-* Einrückungen benutzen 4 Leerzeichen. Rücke niemals mit Tabs ein. Versichere dich, die entsprechende Einstellung in Xcode vorzunehmen.
+* Einrückungen benutzen 2 Leerzeichen. Rücke niemals mit Tabs ein. Versichere dich, die entsprechende Einstellung in Xcode vorzunehmen.
 * Bei Methoden und in anderen Fällen (`if`/`else`/`switch`/`while` etc.), wird die öffnende Klammer immer in die gleiche Zeile entsprechend der tatsächlichen Anweisung - die schließende Klammer jedoch in eine neue Zeile, gesetzt. 
 
 **Beispiel:**
